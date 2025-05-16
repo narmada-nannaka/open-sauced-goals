@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "scaledown-team/scaledown-package",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "narmada-nannaka/generative-ai-for-beginners",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 83310,
+    "stargazers_count": 83500,
     "open_issues_count": 14,
-    "forks_count": 43025
+    "forks_count": 43216
   },
   {
     "full_name": "gautamkrishnar/blog-post-workflow",
-    "stargazers_count": 3120,
+    "stargazers_count": 3121,
     "open_issues_count": 1,
     "forks_count": 284
   }
