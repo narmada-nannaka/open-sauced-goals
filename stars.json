@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "karpathy/llm-council",
+    "stargazers_count": 9571,
+    "open_issues_count": 61,
+    "forks_count": 1581
+  },
+  {
+    "full_name": "google/adk-python",
+    "stargazers_count": 16059,
+    "open_issues_count": 476,
+    "forks_count": 2552
+  },
+  {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 102568,
-    "open_issues_count": 13,
-    "forks_count": 54601
+    "stargazers_count": 102642,
+    "open_issues_count": 12,
+    "forks_count": 54666
   },
   {
     "full_name": "gautamkrishnar/blog-post-workflow",
-    "stargazers_count": 3208,
+    "stargazers_count": 3207,
     "open_issues_count": 0,
     "forks_count": 292
   }
